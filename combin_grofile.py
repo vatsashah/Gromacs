@@ -1,5 +1,3 @@
-#This code is written by Tim Yuan
-#Last time modified 6th August, 2018
 #This code combine two .gro files into 1
 #Sarupria Group
 #Clemson University
